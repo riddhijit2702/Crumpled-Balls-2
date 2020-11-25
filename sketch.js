@@ -29,10 +29,10 @@ function draw() {
   rectMode(CENTER);
   background(300);
 
-  ball.display();
+  
   ground.display();
   dustbin.display();
- 
+  ball.display();
  
 }
 
